@@ -24,3 +24,28 @@
 // const someString = "I like the profession of developer";
 // const firstLetter = someString[0];
 // const lastLetter = someString[someString.length - 1];
+
+//TODO =============== TASK-6 ===============
+// const str1 = "HELLO";
+// const str2 = "WORLD";
+// const lastStr1 = str1[str1.length - 1];
+// const lastStr2 = str2[str2.length - 1];
+// const combLetters = `${lastStr1}${lastStr2}`;
+
+//TODO =============== TASK-7 ===============
+// const userValue = 12345;
+// const stringValue = String(userValue);
+// const digitsNumb = stringValue.length;
+// const result = userValue * 5 ** digitsNumb;
+
+//TODO =============== TASK-8 ===============
+// const apples = 47;
+// const grapes = 135;
+// const total = apples + grapes;
+// const diff = grapes - apples;
+
+//TODO =============== TASK-9 ===============
+// const companyName = "Cyberdyne Systems";
+// const repairBots = 150;
+// const defenceBots = 50;
+// const message = `${companyName} has ${repairBots + defenceBots} bots in stock`;
