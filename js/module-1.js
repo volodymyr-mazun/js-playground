@@ -49,3 +49,82 @@
 // const repairBots = 150;
 // const defenceBots = 50;
 // const message = `${companyName} has ${repairBots + defenceBots} bots in stock`;
+
+//TODO =============== TASK-10 ===============
+// function checksLetter(str1, str2) {
+//   const firstLetter = str1[0];
+//   const lastLetter = str2[str2.length - 1];
+//   if (firstLetter === lastLetter) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-11 ===============
+// function checkLengString(str1, str2) {
+//   const lengthStr1 = str1.length;
+//   const lengthStr2 = str2.length;
+//   if (lengthStr1 === lengthStr2) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-12 ===============
+// function checkParity(num) {
+//   const stringLengNum = String(num).length;
+//   if (stringLengNum % 2 === 0) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-13 ===============
+// function checkingNum(num1, num2) {
+//   if (num1 > num2) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-14 ===============
+// function checkBalance(num1, num2) {
+//   if (num1 % num2 === 0) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-15 ===============
+// function checkBalance(num) {
+//   if (num % 2 !== 0) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-16 ===============
+// function searchLetter(str) {
+//   const lowerStr = str.toLowerCase();
+//   if (str !== lowerStr) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-17 ===============
+// function searchSpace(str) {
+//   const strSpace = str.includes(" ");
+//   if (strSpace) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
