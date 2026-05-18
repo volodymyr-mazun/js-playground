@@ -128,3 +128,54 @@
 //     return false;
 //   }
 // }
+
+//TODO =============== TASK-18 ===============
+// function searchPalindrome(str) {
+//   const arrStr = str.split("");
+//   const reverseStr = arrStr.reverse().join("");
+//   if (str === reverseStr) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-19 ===============
+// function compareNumb(num1, num2) {
+//     if (num1 <= num2) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+
+//TODO =============== TASK-20 ===============
+// function searchVowel(str) {
+//     const arrayLetters = ['a', 'e', 'i', 'o', 'u'];
+//     const firstLetter = str[0];
+//     const searchLet = arrayLetters.includes(firstLetter);
+//     if (searchLet) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+
+//TODO =============== TASK-21 ===============
+// function definitionParity(str) {
+//     const lengthStr = str.length;
+//     if (lengthStr % 2 === 0) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+
+//TODO =============== TASK-22 ===============
+// function definitionDivision(num1, num2) {
+//     if (num1 % 2 === 0 && num2 % 2 !== 0) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
