@@ -179,3 +179,40 @@
 //         return false;
 //     }
 // }
+
+//TODO =============== TASK-23 ===============
+// function rangeCheck(num) {
+//     if (num >= 100 && num <= 200) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+
+//TODO =============== TASK-24 ===============
+// function checkLetter(str) {
+//     const lowerStr = str.lowerCase();
+//     if (str !== lowerStr) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+
+//TODO =============== TASK-25 ===============
+// function checkNesting(str1, str2) {
+//   if (str1.includes(str2)) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+//TODO =============== TASK-26 ===============
+function negativeTest(num) {
+  if (num < 0) {
+    return true;
+  } else {
+    return false;
+  }
+}
